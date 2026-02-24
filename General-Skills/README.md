@@ -12,10 +12,11 @@ Additional details will be available after launching your challenge instance.
 Step 1:
 Connected using:
 
-sh ctf-player@titan.picoctf.net -p 58626
+ssh ctf-player@titan.picoctf.net -p 58626
 
 Step 2:
 Captured the flag.
 
 ## Flag
+
 picoCTF{s3cur3_c0nn3ct10n_65a7a106}
